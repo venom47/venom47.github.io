@@ -1,5 +1,5 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+date: 2018-07-12 15:02:00 -0400
 categories: jekyll update
 ---
