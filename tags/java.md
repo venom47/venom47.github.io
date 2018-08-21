@@ -1,5 +1,4 @@
 ---
-layout: blog_by_tag
-tag: iamge
-permalink: /tags/java
+title: Java
+permalink: /tags/
 ---
